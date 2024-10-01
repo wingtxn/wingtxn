@@ -10,6 +10,13 @@ My name is [**Wing Tan**](https://www.linkedin.com/in/wingtan/) and I am current
 
 ---
 
+> *Fun Facts About Me*
+Made in China
+
+### Contact Me
+🔗 [*LinkedIn*](https://www.linkedin.com/in/wingtan/)
+💌 [*Email*](Mailto:wing.tan@edu.sait.ca)
+
 
 
 
