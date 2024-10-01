@@ -1,4 +1,7 @@
-## Hi there 👋
+# Hello, world! 👋
+### **About Me**
+My name is [**Wing Tan**](https://www.linkedin.com/in/wingtan/) and I am currently studying *User Experience* at the [**Southern Alberta Institute of Technology**](https://www.sait.ca/programs-and-courses/diplomas/interactive-design-user-experience). 
+
 
 <!--
 **wingtxn/wingtxn** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
